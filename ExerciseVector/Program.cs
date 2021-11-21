@@ -12,6 +12,8 @@ namespace ExerciseVector
             Vector v3 = v1 + v2;
             Vector v4 = v3 * 3;
 
+            Console.WriteLine(v1['X']);
+
             Console.WriteLine($"Vector: ({v4.X}, {v4.Y})");
         }
     }
