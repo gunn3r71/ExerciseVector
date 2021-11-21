@@ -3,7 +3,7 @@ using System;
 
 namespace ExerciseVector
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
